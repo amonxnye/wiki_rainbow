@@ -2,6 +2,9 @@
 
 How to use rainbow Demo (Beta)
 
+/**Email**/
+amonxnye@gmail.com for Activiation
+
 /**For Users**/
 Visit https://payrainbow.com/landing/
 This is our Home page which will welcome users
